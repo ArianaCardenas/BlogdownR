@@ -1,4 +1,4 @@
-baseURL: "https://acardenasj-blogdown1.netlify.app/"
+baseURL: "https://acardenasj-blogdown1.netlify.app"
 title: Aprendiendo Blogdown desde cero
 theme: hugo-theme-m10c
 paginate: 5
