@@ -2,10 +2,23 @@
 title: Primer post
 author: Ariana Cardenas
 date: '2022-05-19'
-slug: []
+slug: primer post
 categories:
   - R
 tags:
   - tutorial
 ---
 
+## Insertar imagen
+there is an image:
+
+![gatitos](/cat.jpg)
+
+
+##Header 2 
+
+```
+setwd('C:/Users/arros/OneDrive/Documents/GenCOVID')
+hist = read.table('C:/Users/arros/OneDrive/Documents/GenCOVID/plink.frq', sep = ',', header = TRUE)
+
+```
